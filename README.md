@@ -1,5 +1,7 @@
 ## Human Activity Recognition
 
+DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://github.com/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/human_activity_recognition.ipynb)
+
 The pre-trained human activity recognition deep learning model was trained on the **Kinetics 400 dataset**.
 
 
@@ -17,6 +19,9 @@ To learn more about the dataset, including how it was curated, be sure to refer 
 
 
 ### Model
+
+![](https://github.com/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/3D%20ResNet.jpg)
+
 The model we utilized was ResNet, but with a twist — the model architecture had been modified to utilize 3D kernels rather than the standard 2D filters, enabling the model to include a temporal component for activity recognition. The 3D ResNet is trained on the Kinetics dataset, which includes 400 action classes.
 
 The model we’re using for human activity recognition comes from Hara et al.’s 2018 CVPR paper, [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet](https://arxiv.org/abs/1711.09577)
