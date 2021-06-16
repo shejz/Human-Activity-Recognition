@@ -27,3 +27,14 @@ The model we’re using for human activity recognition comes from Hara et al.’
 ![](https://github.com/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/3D%20ResNet.jpg)
 
 Finally, we implemented human activity recognition using OpenCV and Hara et al.’s [PyTorch implementation](https://github.com/kenshohara/video-classification-3d-cnn-pytorch) which we loaded via OpenCV’s dnn module.
+
+
+### Sample Output
+
+![](https://github.com/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/output/activities.gif)
+
+![](https://github.com/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/output/flying%20kite.gif)
+
+![](https://github.com/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/output/punching_bag.gif)
+
+![](https://github.com/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/output/surfing.gif)
