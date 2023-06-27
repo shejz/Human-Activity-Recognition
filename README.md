@@ -1,6 +1,6 @@
 ## Human Activity Recognition
 
-DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/human_activity_recognition.ipynb)
+DEMO:  [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/Human-Activity-Recognition/blob/main/Human%20Activity%20Recognition/human_activity_recognition.ipynb)
 
 The pre-trained human activity recognition deep learning model was trained on the **Kinetics 400 dataset**.
 
